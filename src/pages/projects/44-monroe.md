@@ -9,7 +9,7 @@ heroImage:
   portraitImage: /images/uploads/44Monroe_PH_1500x2000.jpg
 headline: Brooklyn heights townhouse
 previewImage:
-  image: /images/uploads/44-MONROE_-index.jpg
+  image: /images/uploads/44-monroe_-index.jpg
 infoObject:
   - description: Private Owner
     title: Client
