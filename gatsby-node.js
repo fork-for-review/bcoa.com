@@ -73,7 +73,7 @@ exports.createPages = ({ graphql, boundActionCreators }) => {
                 slug: node.fields.slug
               }
             });
-          } else if (node.frontmatter.templateKey === "project-page" && node.frontmatter.isPublished) {
+          } else if (node.frontmatter.templateKey === "project-page") {
             createPage({
               path: node.fields.slug,
               component: path.resolve("./src/templates/project.js"),
