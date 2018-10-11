@@ -7,7 +7,7 @@ type: commercial
 heroImage:
   image: /images/uploads/ankara_ph_3800x1900.jpg
   portraitImage: /images/uploads/ANKARA_PH_1500x2000.jpg
-headline: Stretching Stone Upward
+headline: Stretching Stone Upwards
 previewImage:
   image: /images/uploads/ANKARA-HOTEL_index_2.jpg
 infoObject:
