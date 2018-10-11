@@ -53,6 +53,8 @@ studioMembers:
       image: /images/uploads/placeholder.jpg
     jobTitle: Designer
     name: Stefano Grisoglio
+  - jobTitle: Designer
+    name: Elizabeth Austin
 publications:
   - date: 'January 1, 2017'
     publisher: The NYTimes
