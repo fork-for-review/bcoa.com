@@ -2,9 +2,9 @@ import React, {Component} from "react";
 import Link from "gatsby-link";
 import Img from 'gatsby-image';
 import Masonry from 'react-masonry-component';
+import smoothscroll from 'smoothscroll-polyfill';
 import Slider from '../components/Slider';
 import SEO from "../components/SEO";
-import smoothscroll from 'smoothscroll-polyfill';
 
 const FeaturedProjectImage = ({ image, className }) => {
   return (
@@ -30,17 +30,20 @@ const renderFeaturedProjects = (featuredProjects, projects) => {
           { project.frontmatter.featured.featuredImage.isPortrait ?
             <div className="nestedGrid-6-2">
               <div className="colSpan-1"></div>
-              <FeaturedProjectImage 
-                className="colSpan-4" 
-                image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
-                alt={project.frontmatter.featured.featuredImage.alt}
-              />
+              {project.frontmatter.featured.featuredImage.image && 
+                <FeaturedProjectImage 
+                  className="colSpan-4" 
+                  image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
+                  alt={project.frontmatter.featured.featuredImage.alt}
+                />
+              }
             </div>
           :
-            <FeaturedProjectImage 
-              image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
-              alt={project.frontmatter.featured.featuredImage.alt} 
-            />
+            project.frontmatter.featured.featuredImage.image && 
+              <FeaturedProjectImage 
+                image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
+                alt={project.frontmatter.featured.featuredImage.alt} 
+              />
           }
             <div className="featured-info">
               <h1 className=" f-headline-d

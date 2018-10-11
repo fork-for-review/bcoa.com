@@ -63,11 +63,13 @@ export default class Work extends Component {
                 <li key={i}>
                   <article className="workProject">
                     <Link to={ project.fields.slug }>
-                      <Img
-                        sizes={ project.frontmatter.previewImage.image.childImageSharp.sizes }
-                        className="marginBottom-3"
-                        alt={project.frontmatter.previewImage.alt}
-                      />
+                      {project.frontmatter.previewImage.image && 
+                        <Img
+                          sizes={ project.frontmatter.previewImage.image.childImageSharp.sizes }
+                          className="marginBottom-3"
+                          alt={project.frontmatter.previewImage.alt}
+                        />
+                      }
                       <h1 className="f-subhead">{ project.frontmatter.title }</h1>
                       <h2 className=" f-subhead
                                       marginBottom-9

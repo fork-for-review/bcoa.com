@@ -97,6 +97,7 @@ export default ({ data }) => {
                 return (
                   imageData.type === 'image'
                   ?
+                    
                       <ProjectImage key={i} index={i} imageData={ imageData } />
                     :
                       <blockquote key={i} className=" project-blockquote colSpan-12 bp-1_colSpan-11 t-center f-headline-b 
