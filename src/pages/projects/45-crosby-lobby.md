@@ -1,7 +1,7 @@
 ---
 isPublished: true
 templateKey: project-page
-title: 45 Crosby Lobby
+title: Crosby Lobby
 type: residential
 heroImage:
   image: /images/uploads/45crosby_lobby_ph_2.jpg
