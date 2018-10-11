@@ -6,4 +6,4 @@ image:
   isPortrait: false
 date: '2018-07-13'
 ---
-See our archinect ad here with more info - https://archinect.com/jobs/entry/150061580/intermediate-architect
+See our archinect ad [HERE ](https://archinect.com/jobs/entry/150061580/intermediate-architect)with more info
