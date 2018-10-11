@@ -1,12 +1,11 @@
 ---
 isPublished: true
 templateKey: project-page
-title: East Riverside Science Park
+title: East River Science Park
 type: commercial
 heroImage:
   image: /images/uploads/eastriversidesciencepark_ph_3800x1900.jpg
-  potraitImage: /images/uploads/EASTRIVERSIDESCIENCEPARK_PH_1500x2000.jpg
-headline: DESIGN A HUB FOR NYC’s EXPANDING LIFE SCIENCES SECTOR
+headline: DESIGN A HUB FOR NYC’s EXPANDING SCIENCES SECTOR
 previewImage:
   image: /images/uploads/EAST-RIVERSIDE-SCIENCE-PARK_index_2.jpg
 infoObject:
@@ -14,14 +13,12 @@ infoObject:
     title: CLIENT
   - description: '29th Street, New York City'
     title: LOCATION
-  - description: 1150 Event and Cafe Space
+  - description: Curtain Wall design and Event Space
     title: SCOPE
   - description: Completed 2011
     title: STATUS
-  - description: RMJM Hillier
-    title: CREDITS
-  - description: Luigi Ciaccia
-    title: KEY PERSONNEL
+  - description: RMJM Hillier with Luigi Ciaccia
+    title: ARCHITECT
 primaryImage:
   image: /images/uploads/wintergarden.jpg
 projectGallery:
