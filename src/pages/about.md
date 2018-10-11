@@ -81,25 +81,26 @@ awards:
     orgName: AIA BQDA
     title: Design Excellence Award for Stair-Well Housing
     url: ''
-  - date: 'January 1, 2016'
+  - date: 'June 2, 2016'
     orgName: AIA BQDA
     title: Merit Award for Lift Next Level Floats
     url: ''
-  - date: 'May 1, 2018'
+  - date: 'December 6, 2016'
     orgName: ''
     title: Duravit Dream Bath Competition for 71st Street
     url: ''
-  - date: 'January 1, 2015'
+  - date: 'August 18, 2015'
     title: Best of Brooklyn Awards - Architects
-  - date: 'January 1, 2014'
+  - date: 'October 9, 2016'
     title: The Selective Loft featured as part of Dwell Home Tours NYC
-  - date: 'January 1, 2012'
+    url: ''
+  - date: 'January 11, 2011'
     title: 'Selected firm to participate in DesigNYC, The Selective Loft'
-  - date: 'January 1, 2005'
+  - date: 'May 13, 2005'
     title: The Eileen Gray Thesis Prize (BB)
-  - date: 'January 1, 2005'
+  - date: 'May 13, 2005'
     title: Alpha Rho Chi Award (BB Leadership)
-  - date: 'January 1, 1997'
+  - date: 'May 31, 1997'
     title: Matthew W. Del Gaudio award (LC Excellence in Design)
 collaborators:
   - description: 'Helped us build our site. :)'
