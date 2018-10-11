@@ -77,7 +77,7 @@ publications:
     url: >-
       https://archpaper.com/2011/09/on-view-designyc-presents-recharging-communities/
 awards:
-  - date: 'January 1, 2018'
+  - date: 'June 27, 2018'
     orgName: AIA BQDA
     title: Design Excellence Award for Stair-Well Housing
     url: ''
