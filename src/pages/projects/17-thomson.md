@@ -4,18 +4,18 @@ templateKey: project-page
 title: Thompson Loft
 type: residential
 heroImage:
+  alt: Modern loft kitchen rendering
   image: /images/uploads/17thompson_ph_3800x1900.jpg
   portraitImage: /images/uploads/17THOMPSON_PH_1500x2000.jpg
-  alt: 'Modern loft kitchen rendering'
 previewImage:
-  image: /images/uploads/17-THOMPSON_index.jpg
+  image: /images/uploads/17-thompson_index.jpg
 primaryImage:
   image: /images/uploads/17-thompson-cropped.jpg
 projectGallery:
-  - colWidth: '10'
+  - alt: modern loft apartment rendering
+    colWidth: '10'
     image: /images/uploads/17-thompson_-1-_1820_cropped.jpg
     type: image
-    alt: 'modern loft apartment rendering'
   - colWidth: '8'
     image: /images/uploads/17-THOMPSON_-(2)_1820.jpg
     offsetWidth: '4'
