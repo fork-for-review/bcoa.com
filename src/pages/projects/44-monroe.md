@@ -1,7 +1,7 @@
 ---
 isPublished: true
 templateKey: project-page
-title: 44 Monroe
+title: Brooklyn Heights Townhouse
 workDescription: Monroe descritpion
 type: residential
 heroImage:
