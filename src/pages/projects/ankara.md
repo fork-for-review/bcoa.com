@@ -23,10 +23,8 @@ infoObject:
     title: SIZE
   - description: Completed 2011
     title: STATUS
-  - description: RMJM - Hillier Group
-    title: CREDITS
-  - description: Luigi Ciaccia
-    title: KEY PERSONEL
+  - description: RMJM - Hillier Group with Luigi Ciaccia
+    title: Architect
 primaryImage:
   caption: >-
     Vertical articulation rises high adjacent to Ankara's main artery into the
