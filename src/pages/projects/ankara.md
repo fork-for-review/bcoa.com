@@ -1,7 +1,7 @@
 ---
 isPublished: true
 templateKey: project-page
-title: 'Five Star Hotel'
+title: Ankara Hotel
 workDescription: ''
 type: commercial
 heroImage:
