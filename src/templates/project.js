@@ -26,11 +26,15 @@ export default ({ data }) => {
           <h2 className='f-page-title'>{fields.title}</h2>
         </div>
       </div>
-      <Img 
-        className="projectHero" 
-        sizes={ fields.heroImage.image.childImageSharp.sizes }
-        alt={fields.heroImage.alt} 
-      />
+      {fields.heroImage.image ? 
+        <Img 
+          className="projectHero" 
+          sizes={ fields.heroImage.image.childImageSharp.sizes }
+          alt={fields.heroImage.alt} 
+        />
+        :
+        console.log(fields)
+      }
       {/* <MediaQuery orientation={'portrait'} maxWidth={1224}>
         {(matches) => {
           if (matches && fields.heroImage && fields.heroImage.portraitImage) {

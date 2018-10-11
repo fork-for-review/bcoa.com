@@ -16,7 +16,6 @@ module.exports = {
         precision: 8
       }
     },
-    `gatsby-plugin-netlify`,
     'gatsby-plugin-netlify-cache',
     "gatsby-link",
     `gatsby-plugin-styled-components`,
