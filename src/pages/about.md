@@ -1,8 +1,8 @@
 ---
 seo:
-  description: About SEO description
-  image: /images/uploads/placeholder.jpg
-  title: About SEO title
+  description: We are BC–)A
+  image: /images/uploads/office-pic-with-filter.jpg
+  title: About - BC–OA
 templateKey: about-page
 title: About
 studioMembers:
