@@ -217,7 +217,6 @@ export const query = graphql`
       phone
       email
       instagram
-      facebook
     }
     settingsJson {
       menuBackground
