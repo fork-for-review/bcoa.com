@@ -30,7 +30,7 @@ projectGallery:
   - colWidth: '12'
     image: /images/uploads/lifthuntington_newplan_3800.jpg
     type: image
-  - pullQuote: quote
+  - pullQuote: flotation therapy finds new home beyond city limits
     type: quote
   - colWidth: '6'
     image: /images/uploads/lift_huntington_-1.jpg
