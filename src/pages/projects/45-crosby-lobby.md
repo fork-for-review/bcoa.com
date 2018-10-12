@@ -33,7 +33,7 @@ projectGallery:
   - colWidth: '4'
     image: /images/uploads/45-crosby_lobby_-10-_1160_cropped.jpg
     type: image
-  - pullQuote: quote
+  - pullQuote: dismantling a postmodern lobby reveals a surprise
     type: quote
   - colWidth: '8'
     image: /images/uploads/45-CROSBY_LOBBY_-(1)_1820.jpg
