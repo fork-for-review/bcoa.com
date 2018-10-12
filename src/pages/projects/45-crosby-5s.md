@@ -16,7 +16,7 @@ featured:
     isPortrait: true
   isFeatured: true
 previewImage:
-  image: /images/uploads/45-CROSBY_5S_4.jpg
+  image: /images/uploads/45-crosby_5s_4.jpg
 infoObject:
   - description: Private Owner
     title: Client
