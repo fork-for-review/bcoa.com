@@ -18,7 +18,7 @@ featured:
     isPortrait: true
   isFeatured: true
 previewImage:
-  image: /images/uploads/WARD-ROAD_index.jpg
+  image: /images/uploads/ward-road_index.jpg
 infoObject:
   - description: Private Owner
     title: Client
