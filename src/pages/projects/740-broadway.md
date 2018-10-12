@@ -47,6 +47,8 @@ projectGallery:
   - colWidth: '12'
     image: /images/uploads/740-broadway_lobby_-3.jpg
     type: image
+  - pullQuote: the physical limits of this lobby are no longer limited
+    type: quote
   - colWidth: '10'
     image: /images/uploads/3.jpg
     type: image
