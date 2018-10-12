@@ -1,6 +1,6 @@
 ---
 seo:
-  description: We are BC–)A
+  description: We are BC–OA
   image: /images/uploads/office-pic-with-filter.jpg
   title: About - BC–OA
 templateKey: about-page

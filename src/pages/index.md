@@ -1,8 +1,8 @@
 ---
 seo:
-  description: ''
-  image: ''
-  title: ''
+  description: We are BC–OA
+  image: /images/uploads/office-pic-with-filter.jpg
+  title: Breitner Ciaccia–Office of Architecture
 templateKey: featured-page
 title: Featured Projects
 carouselImages:
