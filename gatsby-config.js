@@ -19,11 +19,7 @@ module.exports = {
         precision: 8
       }
     },
-    'gatsby-plugin-netlify-cache',
-    "gatsby-link",
-    `gatsby-plugin-styled-components`,
-    "gatsby-transformer-json",
-    'gatsby-plugin-react-next',
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
@@ -44,6 +40,11 @@ module.exports = {
         // cookieDomain: "example.com",
       },
     },
+    'gatsby-plugin-netlify-cache',
+    "gatsby-link",
+    `gatsby-plugin-styled-components`,
+    "gatsby-transformer-json",
+    'gatsby-plugin-react-next',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -127,6 +128,5 @@ module.exports = {
         }
       }
     },
-    `gatsby-plugin-sitemap`,
   ]
 };
