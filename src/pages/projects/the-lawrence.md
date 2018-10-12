@@ -2,7 +2,7 @@
 isPublished: true
 templateKey: project-page
 title: The Lawrence
-type: residential
+type: commercial
 heroImage:
   image: /images/uploads/updated-lobby.jpg
   portraitImage: /images/uploads/ClarksonParkside_PH_1500x2000.jpg
