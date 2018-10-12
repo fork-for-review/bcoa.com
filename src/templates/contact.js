@@ -47,7 +47,7 @@ export default ({ data }) => {
           <br/>
           <a className="defaultLink" href={`tel:${ contact.phone }`}>{ contact.phone }</a>
           <p>&#8212;</p>
-          <a href="http://instagram.com/590bc" className="defaultLink">
+          <a href={`http://instagram.com/${contact.email}`} className="defaultLink">
             Instagram
           </a>
         </div>
