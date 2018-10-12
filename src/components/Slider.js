@@ -51,7 +51,8 @@ export default class HeroSlider extends Component {
         {this.props.slides.map((slide, i) => {
           return slide.project ?
             <div className="slide c-white" key={`slide-${i}`}>
-              <div className="container slick-container">
+              {/* slide info */}
+              {/* <div className="container slick-container">
                 <div className="slide-info">
                   <a className="marginBottom-4 block" href={`projects/${slugify(slide.project, { lower: true })}`}>
                     <p>{slide.title}</p>
@@ -59,7 +60,7 @@ export default class HeroSlider extends Component {
                   </a>
                   <span>{i + 1}/{this.props.slides.length}</span>
                 </div>
-              </div>
+              </div> */}
               <MediaQuery orientation={'portrait'} maxWidth={1224}>
                 {(matches) => {
                   if (matches && slide.portraitImage) {

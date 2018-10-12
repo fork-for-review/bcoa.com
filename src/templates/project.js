@@ -10,7 +10,7 @@ export default ({ data }) => {
   return (
     <div className="bp-2_marginBottom-15">
       <SEO
-        postImage={fields.seo && fields.seo.image ? fields.seo.image.childImageSharp.sizes.src : fields.heroImage.image ? fields.heroImage.image.childImageSharp.sizes.srcSet.split(' ')[0] : null}
+        postImage={fields.seo && fields.seo.image ? fields.seo.image.childImageSharp.sizes.src : fields.previewImage.image ? fields.previewImage.image.childImageSharp.sizes.src : null}
         postData={{
           slug: post.fields.slug,
           seo: {
@@ -135,6 +135,15 @@ export const query = graphql`
         infoObject {
           title
           description
+        }
+        previewImage {
+          image {
+            childImageSharp {
+              sizes(maxWidth: 1200, quality: 80) {
+                ...GatsbyImageSharpSizes_withWebp
+              }
+            }
+          }
         }
         heroImage {
           image {

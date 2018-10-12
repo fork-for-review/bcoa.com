@@ -32,7 +32,7 @@ const renderFeaturedProjects = (featuredProjects, projects) => {
               <div className="colSpan-1"></div>
               {project.frontmatter.featured.featuredImage.image && 
                 <FeaturedProjectImage 
-                  className="colSpan-4" 
+                  className="colSpan-4 marginBottom-5 bp-2_marginBottom-6" 
                   image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
                   alt={project.frontmatter.featured.featuredImage.alt}
                 />
@@ -41,6 +41,7 @@ const renderFeaturedProjects = (featuredProjects, projects) => {
           :
             project.frontmatter.featured.featuredImage.image && 
               <FeaturedProjectImage 
+                className="marginBottom-5 bp-2_marginBottom-6"
                 image={ project.frontmatter.featured.featuredImage.image.childImageSharp.sizes }
                 alt={project.frontmatter.featured.featuredImage.alt} 
               />
@@ -149,14 +150,14 @@ export const query = graphql`
           project
           image {
             childImageSharp {
-              sizes(maxWidth: 3400, quality: 90) {
+              sizes(maxWidth: 3400, quality: 80) {
                 ...GatsbyImageSharpSizes_withWebp
               }
             }
           }
           portraitImage {
             childImageSharp {
-              sizes(maxWidth: 1500, quality: 90) {
+              sizes(maxWidth: 1500, quality: 80) {
                 ...GatsbyImageSharpSizes_withWebp
               }
             }

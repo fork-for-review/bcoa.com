@@ -1,6 +1,8 @@
 .featured-info {
-  @include bp-2 {
-    width: 66.666%
+  > div {
+    @include bp-2 {
+      width: 66.666%
+    }
   }
 }
 

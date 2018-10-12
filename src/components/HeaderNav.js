@@ -2,9 +2,9 @@ import React, { Fragment } from 'react';
 import Link from "gatsby-link";
 import { icons } from "./Icons";
 
-const Menu = ({ visible, menuBG, toggleMenu, navHeight, handleMenuButtonClick }) => (
+const Menu = ({ visible, menuBackground, toggleMenu, navHeight, handleMenuButtonClick }) => (
   <nav  className={`menu f-navigation ${visible ? 'visible' : ''}`}
-        style={{ backgroundImage: `url("${menuBG}")`, height: `${navHeight}px` }}
+        style={{ backgroundImage: `url("${menuBackground}")`, height: `${navHeight}px` }}
   >
     <ul className="c-white">
       <li>
@@ -47,7 +47,7 @@ export default ({ visible, toggleMenu, isWindowLarge, menuBackground, navHeight,
           </div>
         </div>
       </header>
-      <Menu visible={visible} menuBG={menuBackground} toggleMenu={toggleMenu} navHeight={navHeight} handleMenuButtonClick={handleMenuButtonClick} />
+      <Menu visible={visible} menuBackground={menuBackground} toggleMenu={toggleMenu} navHeight={navHeight} handleMenuButtonClick={handleMenuButtonClick} />
     </div>
   )
 }

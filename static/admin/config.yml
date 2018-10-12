@@ -353,7 +353,7 @@ collections:
           - { label: "Site Url", name: "url", widget: "text" }
           - { label: 'Site Image', name: 'siteImage', widget: 'image' }
           - { label: 'Faivcon', name: 'favicon', widget: 'image' }
-          - { label: 'Menu Background', name: 'menuBG', widget: 'image' }
+          - { label: 'Menu Background', name: 'menuBackground', widget: 'image' }
           - { label: 'Logo', name: 'logo', widget: 'image' }
       
       - name: "contact"

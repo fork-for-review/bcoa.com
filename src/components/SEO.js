@@ -62,8 +62,8 @@ const SEO = ({ postData, postImage }) => {
       <meta property="og:image" content={image} />
       <meta property="og:type" content="company" />
       <meta property="og:image:type" content="image/jpeg" />
-      <meta property="og:image:width" content="400" />
-      <meta property="og:image:height" content="200" />
+      <meta property="og:image:width" content="830" />
+      <meta property="og:image:height" content="830" />
       <meta property="fb:app_id" content={305434379998344} />
 
 

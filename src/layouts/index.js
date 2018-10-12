@@ -142,7 +142,7 @@ export default class TemplateWrapper extends Component {
             <div className="paddingBottom-9
                             bp-1_grid-12col
                             bp-1_paddingBottom-11
-                            bp-2_paddingBottom-41"
+                            bp-2_paddingBottom-21"
             >
               <div className={` colSpan-6
                                 marginBottom-7
@@ -187,11 +187,13 @@ export default class TemplateWrapper extends Component {
                     Instagram
                   </a>
                 </div>
-                <div style={{ flex: 1 }}>
-                  <a href={`http://facebook.com/${data.contactJson.facebook} `} target="_blank">
-                    Facebook
-                  </a>
-                </div>
+                {data.contactJson.facebook && 
+                  <div style={{ flex: 1 }}>
+                    <a href={`http://facebook.com/${data.contactJson.facebook} `} target="_blank">
+                      Facebook
+                    </a>
+                  </div>
+                }
                 <p className="marginTop-4 bp-1_marginTop-0">@ BC–OA {new Date().getFullYear()}</p>
               </div>
             </div>
