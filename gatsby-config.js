@@ -1,6 +1,9 @@
 const autoprefixer = require('autoprefixer');
 const customProperties = require('postcss-custom-properties');
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://www.bc-oa.com`,
+  },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
@@ -124,5 +127,6 @@ module.exports = {
         }
       }
     },
+    `gatsby-plugin-sitemap`,
   ]
 };
