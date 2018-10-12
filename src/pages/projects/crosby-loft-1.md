@@ -7,7 +7,7 @@ type: residential
 heroImage:
   image: /images/uploads/45crosby5s_ph_3800x1900.jpg
   portraitImage: /images/uploads/45CROSBY5S_PH_1500x2000.jpg
-headline: Select the loft
+headline: Reveal then refine the Soho loft
 featured:
   featuredDescription: BC—OAs first of many Soho loft projects
   featuredImage:
