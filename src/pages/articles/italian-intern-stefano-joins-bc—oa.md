@@ -2,7 +2,7 @@
 templateKey: article-page
 title: Italian intern Stefano joins BC—OA
 image:
-  image: /images/uploads/bc-oa_imagecoloring_stefano.jpg
+  image: /images/uploads/bc-oa_imagecoloring_stefano_1160x1740.jpg
   isPortrait: true
 date: '2018-07-02'
 ---

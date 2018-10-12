@@ -56,27 +56,27 @@ studioMembers:
   - jobTitle: Designer
     name: Elizabeth Austin
 publications:
-  - date: 'January 1, 2017'
+  - date: 'March 10, 2017'
     publisher: The NYTimes
     title: Pre-War is So Last Year
     url: 'https://www.nytimes.com/2017/03/10/realestate/prewar-is-so-last-year.html'
-  - date: 'January 1, 2014'
+  - date: 'October 9, 2016'
     publisher: Dwell Magazine
     title: Dwell on Design NY
-    url: ''
+    url: 'https://www.dwell.com/collection/a-renovated-loft-in-soho-628c9992'
   - date: 'January 1, 2013'
     publisher: 'Dwell Magazine OnLine, Diana Budds'
     title: A Renovated Loft in Soho
     url: 'https://www.dwell.com/collection/a-renovated-loft-in-soho-628c9992'
-  - date: 'January 1, 2012'
+  - date: 'January 12, 2012'
     publisher: Satellite Magazine
     title: Brooklyn / BC—OA
-  - date: 'January 1, 2011'
+  - date: 'September 20, 2011'
     publisher: Architect’s Newspaper
     title: Recharging Communities
     url: >-
       https://archpaper.com/2011/09/on-view-designyc-presents-recharging-communities/
-    visibleDate: January 2011
+    visibleDate: September 2011
 awards:
   - date: 'June 27, 2018'
     orgName: AIA BQDA
@@ -136,6 +136,6 @@ collaborators:
 ---
 We are Breitner Ciaccia — Office of Architecture. 
 
-We are a creative design firm with our feet firmly on the ground, merging creativity with pragmatism. Love of craft, conceptual dedication and technical prowess inform everything we do. We use creative vision, precise execution, technology, and collaboration to get it done. From loft renovations, to commercial development, we are the place that knows \*growing\* doesn’t mean growing up or growing old, but rather growing forward. 
+We are an architectural design firm with our feet firmly on the ground, merging creativity with pragmatism. Love of craft, conceptual dedication and technical prowess inform everything we do. We use creative vision, precise execution, technology, and collaboration to get it done. From loft renovations, to commercial development, we are the place that knows \*growing\* doesn’t mean growing up or growing old, but rather growing forward. 
 
 We are BC—OA.
