@@ -22,19 +22,19 @@ const Member = ({ member }) => (
 );
 
 const Publication = ({ publication }) => (
-  <div>
+  <div className="paddingBottom-7">
     <hr className="marginBottom-2" />
     <a className="f-copy-bold defaultLink" href={ publication.url }>{ publication.title } &#8212; { publication.publisher }</a>
-    {publication.visibleDate && <p className="f-copy marginBottom-7">{ publication.visibleDate }</p>}
+    {publication.visibleDate && <p className="f-copy">{ publication.visibleDate }</p>}
   </div>
 );
 
 const Award = ({ award }) => (
-  <div>
+  <div className="paddingBottom-7">
     <hr className=" marginBottom-2" />
     <a className="f-copy-bold defaultLink" href={ award.url }>{ award.title } &#8212; { award.orgName }</a>
     {award.visibleDate && 
-      <p className="marginBottom-7">
+      <p>
         { award.visibleDate }
       </p>
     }
