@@ -7,10 +7,8 @@ import * as contact from '../_data/contact/contact.json';
 import faviconApple from '../favicon/apple-touch-icon.png';
 import favicon32 from '../favicon/favicon-32x32.png';
 import favicon16 from '../favicon/favicon-16x16.png';
-// import manifest from '../favicon/site.webmanifest';
 import safariPinned from '../favicon/safari-pinned-tab.svg';
 import faviconICO from '../favicon/favicon.ico';
-// import browserConfig from '../favicon/browserconfig.xml';
 
 const getSchemaOrgJSONLD = ({
   url,

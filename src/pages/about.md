@@ -72,35 +72,45 @@ publications:
     publisher: Satellite Magazine
     title: Brooklyn / BC—OA
   - date: 'January 1, 2011'
+    visibleDate: 'January 2011'
     publisher: Architect’s Newspaper
     title: Recharging Communities
     url: >-
       https://archpaper.com/2011/09/on-view-designyc-presents-recharging-communities/
 awards:
   - date: 'June 27, 2018'
+    visibleDate: 'June 2018'
     orgName: AIA BQDA
     title: Design Excellence Award for Stair-Well Housing
     url: ''
   - date: 'June 2, 2016'
+    visibleDate: '2016'
     orgName: AIA BQDA
     title: Merit Award for Lift Next Level Floats
     url: ''
   - date: 'December 6, 2016'
+    visibleDate: '2016'
     orgName: ''
     title: Duravit Dream Bath Competition for 71st Street
     url: ''
   - date: 'August 18, 2015'
+    visibleDate: '2015'
     title: Best of Brooklyn Awards - Architects
   - date: 'October 9, 2016'
+    visibleDate: '2016'
     title: The Selective Loft featured as part of Dwell Home Tours NYC
     url: ''
   - date: 'January 11, 2011'
+    visibleDate: '2011'
     title: 'Selected firm to participate in DesigNYC, The Selective Loft'
   - date: 'May 13, 2005'
+    visibleDate: '2005'
     title: The Eileen Gray Thesis Prize (BB)
   - date: 'May 13, 2005'
+    visibleDate: '2005'
     title: Alpha Rho Chi Award (BB Leadership)
   - date: 'May 31, 1997'
+    visibleDate: '1997'
     title: Matthew W. Del Gaudio award (LC Excellence in Design)
 collaborators:
   - description: 'Helped us build our site. :)'
@@ -109,7 +119,7 @@ collaborators:
     url: 'http://joshuarule.com'
   - description: Helped us design our site
     jobTitle: Web Designer
-    name: 'Virgo '
+    name: 'Virgo'
     url: virgo-ny.com
   - description: Helped us craft our branding
     jobTitle: Graphic Designers

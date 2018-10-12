@@ -25,7 +25,7 @@ const Publication = ({ publication }) => (
   <div>
     <hr className="marginBottom-2" />
     <a className="f-copy-bold defaultLink" href={ publication.url }>{ publication.title } &#8212; { publication.publisher }</a>
-    <p className="f-copy marginBottom-7">{ publication.date }</p>
+    {publication.visibleDate && <p className="f-copy marginBottom-7">{ publication.visibleDate }</p>}
   </div>
 );
 
@@ -33,9 +33,11 @@ const Award = ({ award }) => (
   <div>
     <hr className=" marginBottom-2" />
     <a className="f-copy-bold defaultLink" href={ award.url }>{ award.title } &#8212; { award.orgName }</a>
-    <p className="marginBottom-7">
-      { award.date }
-    </p>
+    {award.visibleDate && 
+      <p className="marginBottom-7">
+        { award.visibleDate }
+      </p>
+    }
   </div>
 );
 
@@ -235,14 +237,14 @@ export const query = graphql`
         }
         publications {
           title
-          date
+          visibleDate
           url
           publisher
         }
         awards {
           title
           orgName
-          date
+          visibleDate
           url
         }
         collaborators {
