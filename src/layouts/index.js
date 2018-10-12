@@ -142,7 +142,7 @@ export default class TemplateWrapper extends Component {
             <div className="paddingBottom-9
                             bp-1_grid-12col
                             bp-1_paddingBottom-11
-                            bp-2_paddingBottom-21"
+                            bp-2_paddingBottom-41"
             >
               <div className={` colSpan-6
                                 marginBottom-7

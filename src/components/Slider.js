@@ -79,7 +79,7 @@ export default class HeroSlider extends Component {
             </div>
             :
             <div className="slide c-white" key={`slide-${i}`}>
-              <div className="container slick-container">
+              {/* <div className="container slick-container">
                 <div className="slide-info">
                   <div className="marginBottom-4">
                     <p>{slide.title}</p>
@@ -87,7 +87,7 @@ export default class HeroSlider extends Component {
                   </div>
                   <span>{i + 1}/{this.props.slides.length}</span>
                 </div>
-              </div>
+              </div> */}
               {slide.image && 
                 <Img sizes={ slide.image.childImageSharp.sizes } alt={slide.image.alt}/>
               }

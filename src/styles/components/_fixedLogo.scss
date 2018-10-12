@@ -5,7 +5,7 @@
   @include bp-1 {
     position: fixed;
     width: 100%;
-    bottom: calc(var(--project-title-height) + var(--unit-45));
+    bottom: var(--unit-17);
     left: 50%;
     transform: translateX(-50%);
     display: flex;
