@@ -2,7 +2,7 @@
 isPublished: true
 templateKey: project-page
 title: Crosby Lobby
-type: residential
+type: commercial
 heroImage:
   image: /images/uploads/45crosby_lobby_ph_2.jpg
   portraitImage: /images/uploads/45CROSBY_LOBBY_PH_1500x2000.jpg
