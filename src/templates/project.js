@@ -85,6 +85,7 @@ export default ({ data }) => {
           {fields.projectGallery && fields.projectGallery.length &&
             <div className="project-images bp-1_grid-12col">
               {fields.projectGallery.map((imageData, i) => {
+                console.log(fields.projectGallery);
                 return (
                   imageData.type === 'image'
                   ?
