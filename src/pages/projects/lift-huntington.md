@@ -16,6 +16,7 @@ infoObject:
   - description: In Construction
     title: STATUS
 primaryImage:
+  caption: Rooms provide an aesthetically serene experience
   image: /images/uploads/lift_huntington_-7-cropped_1820.jpg
 projectGallery:
   - colWidth: '10'
