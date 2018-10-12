@@ -9,18 +9,18 @@ projects:
   - project: Astor Lobby
   - project: UWS Co-op
   - project: Thompson Loft
-  - project: 44 Monroe
-  - project: 45 Crosby Lobby
+  - project: Brooklyn Heights Townhouse
+  - project: Crosby Lobby
   - project: Crosby Loft II
   - project: Crosby Loft I
   - project: 740 Broadway Lobby
   - project: Elevecture® Showroom II
-  - project: Five Star Hotel
+  - project: Ankara Hotel
   - project: City of Dreams
   - project: Boatbox
   - project: The Lawrence
   - project: Lift Huntington
-  - project: East Riverside Science Park
+  - project: East River Science Park
   - project: Lift Next Level Floats
   - project: Newline Cinema
   - project: Jungle House
