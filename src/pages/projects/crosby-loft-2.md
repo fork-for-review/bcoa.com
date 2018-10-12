@@ -6,7 +6,7 @@ type: residential
 heroImage:
   image: /images/uploads/45crosby5n_ph_3800x1900.jpg
   portraitImage: /images/uploads/45CROSBY5N_PH_1500x2000.jpg
-headline: EXPOSE AND CONCEAL THE LOFT
+headline: 'Expose the old, Insert the new, distress, repeat'
 featured:
   featuredDescription: >-
     Contemporary materials contrast the original highlights of this SoHo
@@ -69,8 +69,6 @@ projectGallery:
     image: /images/uploads/45-crosby_5n_-16-_1820_cropped.jpg
     type: image
 ---
-The owners of this 2300sf converted loft in Soho had a clearly defined vision for their what their renovation wasn’t. Their close friends and neighbors across the elevator had recently renovated their identical loft with 590BC - a project we titled “The Selective Loft” for its clean, minimalist detailing contrasted against the selective exposing of the structure’s original brick and timbers. The clients for this new project admired their project but were looking to embrace the loft aesthetic to a greater extent, thus “The Less Selective Loft”. In contrast to the sleek white ceiling of their neighbors, this design accepts the imperfections of the original tin ceilings, providing substantial reveals where it meets new materials to accommmodate the irregular surface, and highlights the exposed piping and sprinklers. 
+The owners of this 2300sf converted loft in Soho had a clearly defined vision for their what their renovation wasn’t. Their close friends and neighbors across the elevator had recently renovated their identical loft with BC—OA - a project we titled “The Selective Loft” for its clean, minimalist detailing contrasted against the selective exposing of the structure’s original brick and timbers. The clients for this new project admired their project but were looking to embrace the loft aesthetic to a greater extent. In contrast to the sleek white ceiling of their neighbors, this design accepts the imperfections of the original tin ceilings, providing substantial reveals where it meets new materials to accommodate the irregular surface, and highlights the exposed piping and sprinklers. 
 
-
-
-To accommodate the clients colorful aesthetic and collection of tchockes, the selection of new materials remained simple and fairly desaturated, including superwhite walls, wide-plank oil finished white oak flooring and white laquered cabinetry. The architectural feature of the space is the distressed bronze upper cabinet, which floats in space, buffering the proximity of old materials and new, and of public and private spaces.
+To accommodate the clients colorful aesthetic and collection of tchockes, the selection of new materials remained simple and fairly desaturated, including superwhite walls, wide-plank oil finished white oak flooring and white lacquered cabinetry. The featured material of the space is the distressed bronze upper cabinet, which floats in space, buffering the proximity of old materials and new, and of public and private spaces.

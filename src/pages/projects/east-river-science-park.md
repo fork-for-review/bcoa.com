@@ -41,7 +41,7 @@ projectGallery:
     image: /images/uploads/east-riverside-science-park-drawings_1820_cropped.jpg
     offsetWidth: '1'
     type: image
-  - pullQuote: quote
+  - pullQuote: folding the cafe inside out
     type: quote
   - colWidth: '10'
     image: /images/uploads/4th-annual-giving-gracefully-awards-super-dnea6uotjyzl.jpg

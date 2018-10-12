@@ -7,7 +7,7 @@ type: residential
 heroImage:
   image: /images/uploads/45crosby5s_ph_3800x1900.jpg
   portraitImage: /images/uploads/45CROSBY5S_PH_1500x2000.jpg
-headline: Select the loft
+headline: Reveal then refine the Soho loft
 featured:
   featuredDescription: BC—OAs first of many Soho loft projects
   featuredImage:
@@ -67,6 +67,6 @@ projectGallery:
     image: /images/uploads/45-crosby_5s_-14-_2480_cropped.jpg
     type: image
 ---
-This 2300sf loft located on Soho’s quintessential Crosby Street offers ample square lfootage in a long and narrow floor plan. A partial wall dividing the public and private spaces of this residence breaks the floor plan in half, providing a friendlier proportion for the open kitchen, dining and living space, while still permitting views straight through the apartment to windows at the two extremes. The original loft materials - brick and heavy timber columns - are exposed throughout the living and dining area, with contemporary insertions to provide a comfortable kitchen and sitting area. Furniture selection by Tamara Eaton Design.
+This 2300sf loft located on Soho’s quintessential Crosby Street offers ample square footage in a long and narrow floor plan. A partial wall dividing the public and private spaces of this residence breaks the floor plan in half, providing a friendlier proportion for the open kitchen, dining and living space, while still permitting views straight through the apartment to windows at the two extremes. The original loft materials - brick and heavy timber columns - are exposed throughout the living and dining area, with contemporary insertions to provide a comfortable kitchen and sitting area. Furniture selection by Tamara Eaton Design.
 
-As featured on Dwel
+As featured on Dwell
