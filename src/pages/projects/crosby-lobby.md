@@ -18,9 +18,11 @@ infoObject:
   - description: Raquel Perez-Puig
     title: PHOTOGRAPHY
 primaryImage:
+  caption: Painted perforated metal panel guardrails
   image: /images/uploads/45-CROSBY_LOBBY_-(13)_1820.jpg
 projectGallery:
-  - colWidth: '6'
+  - caption: Building egress stair becomes feature in lobby
+    colWidth: '6'
     image: /images/uploads/45-CROSBY_LOBBY_-(12)_1820.jpg
     type: image
   - colWidth: '10'
@@ -33,7 +35,7 @@ projectGallery:
   - colWidth: '4'
     image: /images/uploads/45-crosby_lobby_-10-_1160_cropped.jpg
     type: image
-  - pullQuote: quote
+  - pullQuote: dismantling a postmodern lobby reveals a surprise
     type: quote
   - colWidth: '8'
     image: /images/uploads/45-CROSBY_LOBBY_-(1)_1820.jpg
@@ -48,7 +50,8 @@ projectGallery:
   - colWidth: '4'
     image: /images/uploads/45-crosby_lobby_-2-_1160_cropped.jpg
     type: image
-  - colWidth: '10'
+  - caption: Sprinkler pipe does not want to hide
+    colWidth: '10'
     image: /images/uploads/45-CROSBY_LOBBY_-(6)_1820.jpg
     type: image
 ---

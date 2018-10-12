@@ -51,7 +51,8 @@ projectGallery:
       "New York City Innovation Center is a One-Stop Shop to See Tomorrow's
       Buildings and Design Trends Today"
     type: quote
-  - colWidth: '12'
+  - caption: Overlapping display areas throughout the showroom create the overall space
+    colWidth: '12'
     image: /images/uploads/2-bs.jpg
     type: image
 ---

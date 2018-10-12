@@ -16,9 +16,11 @@ infoObject:
   - description: In Construction
     title: STATUS
 primaryImage:
+  caption: Rooms provide an aesthetically serene experience
   image: /images/uploads/lift_huntington_-7-cropped_1820.jpg
 projectGallery:
-  - colWidth: '10'
+  - caption: A central decompression lounge defined by the iconic blue glow
+    colWidth: '10'
     image: /images/uploads/lift_huntington_-10.jpg
     type: image
   - colWidth: '6'
@@ -30,7 +32,7 @@ projectGallery:
   - colWidth: '12'
     image: /images/uploads/lifthuntington_newplan_3800.jpg
     type: image
-  - pullQuote: quote
+  - pullQuote: flotation therapy finds new home beyond city limits
     type: quote
   - colWidth: '6'
     image: /images/uploads/lift_huntington_-1.jpg

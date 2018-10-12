@@ -30,7 +30,7 @@ projectGallery:
     image: /images/uploads/jungle-house_-14.jpg
     offsetWidth: '2'
     type: image
-  - pullQuote: quote
+  - pullQuote: 'yes, it''s all about the lake'
     type: quote
   - colWidth: '10'
     image: /images/uploads/jungle-house_promo-plancropped_1820.jpg
