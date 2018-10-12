@@ -40,7 +40,7 @@ module.exports = {
         // cookieDomain: "example.com",
       },
     },
-    'gatsby-plugin-netlify-cache',
+    // 'gatsby-plugin-netlify-cache',
     "gatsby-link",
     `gatsby-plugin-styled-components`,
     "gatsby-transformer-json",
