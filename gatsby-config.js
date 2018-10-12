@@ -1,9 +1,6 @@
 const autoprefixer = require('autoprefixer');
 const customProperties = require('postcss-custom-properties');
 module.exports = {
-  // siteMetadata: {
-  //   siteUrl: `https://www.bc-oa.com`,
-  // },
   plugins: [
     "gatsby-plugin-react-helmet",
     {
@@ -19,27 +16,6 @@ module.exports = {
         precision: 8
       }
     },
-    // `gatsby-plugin-sitemap`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: "UA-61023410-1",
-    //     // Puts tracking script in the head instead of the body
-    //     head: false,
-    //     // Setting this parameter is optional
-    //     anonymize: true,
-    //     // Setting this parameter is also optional
-    //     respectDNT: true,
-    //     // Avoids sending pageview hits from custom paths
-    //     // exclude: [],
-    //     // Enables Google Optimize using your container Id
-    //     // optimizeId: "YOUR_GOOGLE_OPTIMIZE_TRACKING_ID",
-    //     // Any additional create only fields (optional)
-    //     sampleRate: 5,
-    //     siteSpeedSampleRate: 10,
-    //     // cookieDomain: "example.com",
-    //   },
-    // },
     'gatsby-plugin-netlify-cache',
     "gatsby-link",
     `gatsby-plugin-styled-components`,
