@@ -35,7 +35,7 @@ projectGallery:
   - colWidth: '4'
     image: /images/uploads/ch_corcoran_ash_44_monroe_pl_ny_022_1160_cropped.jpg
     type: image
-  - pullQuote: quote
+  - pullQuote: a townhouse reorganizes and settles into itself
     type: quote
   - colWidth: '12'
     image: /images/uploads/44-monroe-floorplan-hq.jpg
