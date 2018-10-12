@@ -19,7 +19,8 @@ primaryImage:
   caption: Rooms provide an aesthetically serene experience
   image: /images/uploads/lift_huntington_-7-cropped_1820.jpg
 projectGallery:
-  - colWidth: '10'
+  - caption: A central decompression lounge defined by the iconic blue glow
+    colWidth: '10'
     image: /images/uploads/lift_huntington_-10.jpg
     type: image
   - colWidth: '6'
