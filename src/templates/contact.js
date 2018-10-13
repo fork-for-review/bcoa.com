@@ -37,17 +37,24 @@ export default ({ data }) => {
           { pageFields.message }
         </p>
         <div className="bp-1_colSpan-6 bp-1_offset-left-1">
-          <p>{ contact.address.street }</p>
-          <p>{ contact.address.street2 }</p>
-          <p>
-            { contact.address.city }, { contact.address.state } { contact.address.zip }
-          </p>
+          <a className="defaultLink" href="https://goo.gl/maps/cxWiP9aLg6v" target="_blank">
+            <address>
+              {contact.address.street}
+              {" "}
+              <br />
+              {contact.address.street2}
+              <br />
+              {contact.address.city}, {contact.address.state}{" "}
+              {contact.address.zip}
+              <br />
+            </address>
+          </a>
           <p>&#8212;</p>
           <a className="defaultLink" href={`mailto:${ contact.email }`}>{ contact.email }</a>
           <br/>
           <a className="defaultLink" href={`tel:${ contact.phone }`}>{ contact.phone }</a>
           <p>&#8212;</p>
-          <a href={`http://instagram.com/${contact.instagram}`} className="defaultLink">
+          <a href={`http://instagram.com/${contact.instagram}`} target="_blank" className="defaultLink">
             Instagram
           </a>
         </div>
