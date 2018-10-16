@@ -1,5 +1,5 @@
 ---
-isPublished: true
+isPublished: false
 templateKey: project-page
 title: Lift Huntington
 type: commercial
