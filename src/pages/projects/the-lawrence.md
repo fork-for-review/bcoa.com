@@ -16,9 +16,9 @@ featured:
 previewImage:
   image: /images/uploads/clarkson-parkside_index.jpg
 infoObject:
-  - description: Aspen Equities Brooklyn NY
+  - description: Private Developer
     title: Client
-  - description: Design Architect New Construction
+  - description: Design Assist for exteriors and interior common spaces
     title: scope
   - description: In construction
     title: Status
