@@ -50,7 +50,7 @@ projectGallery:
     image: /images/uploads/zhuhai_-17-_3800_cropped.jpg
     type: image
 ---
-The concept for this large urban complex in southern China was driven by the “City of
+This convention and exhibition complex are part of the key elements of development for the wider Shizimen Business District in Zhuhai, China. The concept was driven by the “City of
 Romance” label for the city of Zuhai, together with the connection of the
 site to the water. A series of organic interconnected buildings
 join together to form vibrant multi-leveled urban spaces. The
