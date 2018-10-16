@@ -30,8 +30,8 @@ infoObject:
     title: CLIENT
   - description: 'Modular, ground-up affordable housing'
     title: SCOPE
-  - description: Submitted Winter 2017
-    title: STATUS
+  - description: AIA Design Excellence Award BQDA 2018
+    title: Awards
 primaryImage:
   caption: >-
     Rotating, mirroring and stacking modular units brings both exterior space
@@ -83,7 +83,7 @@ projectGallery:
 Stair-Well Housing represents a concept for modular housing
  design intended to address NYCs dire need to bring low
  cost, efficient affordable housing to the five boroughs. The
- flexible, stacking design is conceived to take advantage of
+ flexible, stacking design is designed to take advantage of
  the many vacant infill lots located in developing, low-rise
  neighborhoods in the 5 boroughs. The invention is in the
  single stair run integrated into each module which, when
