@@ -13,7 +13,7 @@ previewImage:
 infoObject:
   - description: New Line Cinema
     title: CLIENT
-  - description: '10,000sf commercial off ice space'
+  - description: '10,000sf commercial office space'
     title: SCOPE
   - description: Completed 2009
     title: STATUS
@@ -44,11 +44,16 @@ projectGallery:
   - colWidth: '6'
     image: /images/uploads/new-line-cinema_-9-cropped_1820.jpg
     type: image
-  - caption: '"Skylight" voids in the acoustical ceiling tile expose the original
-    concrete structure'
+  - caption: >-
+      "Skylight" voids in the acoustical ceiling tile expose the original
+      concrete structure
     colWidth: '12'
     image: /images/uploads/new-line-cinema_-1-cropped_1820.jpg
     type: image
+  - pullQuote: >-
+      Materials formerly rendered normative are re-presented in a seemingly
+      chaotic manner
+    type: quote
 ---
 The building at 116 North Robertson Boulevard, designed in the 1950’s in Los Angeles, predated Caesar Pelli’s “Blue Whale” as a Design Center for Architects and Decorators. Its thick, buff brick and stone exterior and narrow slit windows permit only a minimum of daylight in the interest of material preservation and protection. SMH was challenged to introduce daylight throughout a space both unsuitable for film production and undesirable for occupation.
 
