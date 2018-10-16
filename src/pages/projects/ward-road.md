@@ -66,8 +66,8 @@ projectGallery:
     image: /images/uploads/ward-road_-20.jpg
     type: image
   - pullQuote: >-
-      Four building blocks, stacked and overlapping, each dedicated to private
-      or public
+      Conceived as a game of stacking and overlapping programmatic building
+      blocks 
     type: quote
   - colWidth: '12'
     image: /images/uploads/ward-road_-8-_3800.jpg
@@ -83,4 +83,4 @@ projectGallery:
     offsetWidth: '2'
     type: image
 ---
-Australian sisters purchased a small lot in nostalgic Pt. Londsdale and required a shared holiday house which allowed for two master zones and shared public areas with sweeping bay views. The project was designed in duals, with two master bedrooms and bathrooms at extreme opposites, two different kinds of living / study zones and two exterior decks all packed within a very small footprint. Different materials and exterior cladding were used to create distinction between the different zones. The house is built using local materials and a rainwater collection system, and isolated mechanical zones minimize energy usage. This project was as design assist with local Melbourne architect Chris Manton.
+Australian sisters purchased a small lot in nostalgic Pt. Londsdale and required a shared holiday house which allowed for two master zones and shared public areas with sweeping bay views. The project was designed in duals, with two master bedrooms and bathrooms at extreme opposites, two different kinds of living / study zones and two exterior decks all packed within a very small footprint. Different materials and exterior cladding were used to create distinction between the different zones. The house is built using local materials and a rainwater collection system, and isolated mechanical zones minimize energy usage. This project was as design assist by Bronwyn Breitner together with local Melbourne architect Chris Manton.
