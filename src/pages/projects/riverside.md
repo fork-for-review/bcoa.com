@@ -7,7 +7,7 @@ type: commercial
 heroImage:
   image: /images/uploads/riverside_ph-3800x1900.jpg
   portraitImage: /images/uploads/RIVERSIDE_PH-1500x2000.jpg
-headline: 'BUILD COMMUNITY WITH A KIOSK, REVISITED'
+headline: re-imagine a forgotten harlem icon
 featured:
   featuredDescription: A phased approach to adaptive reuse at a remarkable NYC iconic structure
   featuredImage:
@@ -19,7 +19,7 @@ previewImage:
 infoObject:
   - description: Harlem Public
     title: CLIENT
-  - description: Timber kiosk
+  - description: 'Timber kiosk, arcade restaurant and rotunda bar'
     title: SCOPE
   - description: In-Process
     title: STATUS
@@ -67,4 +67,6 @@ Views from this unique urban vantage point span from the
  timbers treated to withstand the elements. The material
  warmth together with the open views through the kiosk are
  intended to reflect a structure that is welcoming and inclusive
- of all.
+ of all. 
+
+Beneath the kiosk, hovering at a level between the highway and riverside drive, exist an abandoned arcade and rotunda structure, formally used as comfort stations and an electrical transfer hub respectively. These elegant structures,  designed and built for utterly utilitarian programs, reflect the sensitivity and quality of old New York, built by hand to last a lifetime. After nearly 60 years with their doors literally cemented shut, the NYC parks department has invited Harlem Public to re-activate these structures as concessionaires. BC—OA is excited to participate in such an important, public works project. More updates to come....
