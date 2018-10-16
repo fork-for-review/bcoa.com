@@ -10,7 +10,7 @@ headline: INVITE THE CITY IN
 previewImage:
   image: /images/uploads/W-53ST_index.jpg
 infoObject:
-  - description: SDS Procida
+  - description: Private Developer
     title: CLIENT
   - description: '200,000sf+ Low-rise  residential project'
     title: SCOPE
