@@ -43,7 +43,9 @@ projectGallery:
   - colWidth: '8'
     image: /images/uploads/W-53RD-ST_-(4)_1820.jpg
     offsetWidth: '4'
-    pullQuote: quote
+    pullQuote: >-
+      The parallel projected window allows the city to subtly enter the unit’s
+      space
     type: quote
   - colWidth: '6'
     image: /images/uploads/w-53rd-st_-8-_1820_cropped.jpg
