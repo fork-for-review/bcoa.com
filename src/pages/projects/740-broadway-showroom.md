@@ -51,9 +51,9 @@ projectGallery:
       "New York City Innovation Center is a One-Stop Shop to See Tomorrow's
       Buildings and Design Trends Today"
     type: quote
-  - caption: Overlapping display areas throughout the showroom create the overall space
+  - caption: ''
     colWidth: '12'
     image: /images/uploads/2-bs.jpg
     type: image
 ---
-This showroom, the re-conceptualized, relocated version of the first Elevecture® showroom, represents a collaboration by three innovative companies who's common mission involves revolutionizing the architectural surfaces world through the use of advanced glass technologies.   The Innovation Center functions as a forum that networks people and their innovations together with a focus on interactive collaboration. Digital displays blend seamlessly with glass panel to help showcase changing exhibits while maintaining an environment conducive to co-working for the development, design and construction industries.
+This showroom, the re-conceptualized, relocated version of the first Elevecture® showroom, represents a collaboration by three innovative companies who's common missions involves revolutionizing the architectural surfaces world through the use of advanced glass technologies.   The Innovation Center functions as a forum that networks people and their innovations together with a focus on interactive collaboration. Digital displays blend seamlessly with glass panels to help showcase changing exhibits while maintaining an environment conducive to co-working for the development, design and construction industries.
