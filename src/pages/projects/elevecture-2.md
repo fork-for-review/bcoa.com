@@ -22,9 +22,9 @@ previewImage:
 infoObject:
   - description: Newmark Holdings
     title: Client
-  - description: Renovation of a Commercial Lobby
+  - description: Commercial Lobby Renovation
     title: Scope
-  - description: Completed
+  - description: Completed 2017
     title: Status
 primaryImage:
   caption: White glass columns fold to become suspended LED panels overhead
@@ -53,4 +53,4 @@ projectGallery:
     image: /images/uploads/3.jpg
     type: image
 ---
-A progressive, future-focused client asked BC—OA to design a complete modernization to this century old lobby utilizing the Elevecture glass panel and display material palette utilized at the Reflect Showroom. The contrast between the historic facade and contemporary, technologically sophisticated interior reflects the adaptability of historic architecture in New York’s fast paced developing market. The challenge of the design comes from implementing the modular panel system in a wholly different way, which we addressed by incorporating vertical strips of digital displays alternating with the white static panels and lighting. The result is a space defined largely by these folding layers wrapping the space, creating an opportunity for the occupant to physically inhabit the graphic content on the walls as they experience a moment of pause in their daily commutes.
+A progressive, future-focused client asked BC—OA to design a complete modernization to this century old lobby utilizing the Elevecture glass panel and display material palette utilized at the Elevecture Showroom. The contrast between the historic facade and contemporary, technologically sophisticated interior reflects the adaptability of historic architecture in New York’s fast paced developing market. The challenge of the design comes from implementing the modular panel system in a wholly different way, which we addressed by incorporating vertical strips of digital displays alternating with columns of white static panels and lighting. The result is a space defined largely by these folding layers wrapping the space, creating an opportunity for the occupant to physically inhabit the graphic content on the walls as they experience a moment of pause in their daily commutes.
