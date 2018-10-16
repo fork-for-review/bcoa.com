@@ -11,7 +11,6 @@ projects:
   - project: The Lawrence
   - project: Astor Lobby
   - project: UWS Co-op
-  - project: Thompson Loft
   - project: Brooklyn Heights Townhouse
   - project: Crosby Lobby
   - project: Crosby Loft I
@@ -24,7 +23,6 @@ projects:
   - project: Boatbox
   - project: Newline Cinema
   - project: Ward Road House
-  - project: Lift Huntington
   - project: Jungle House
   - project: Elevecture Showroom I
   - project: Barman
