@@ -14,7 +14,7 @@ infoObject:
     title: CLIENT
   - description: '200,000sf+ Low-rise  residential project'
     title: SCOPE
-  - description: In construction
+  - description: Completed 2010
     title: STATUS
   - description: Smith-Miller + Hawkinson Architects with Bronwyn Breitner
     title: Architect
