@@ -34,7 +34,7 @@ projectGallery:
   - colWidth: '12'
     image: /images/uploads/BOATBOX_-(1)_1820.jpg
     type: image
-  - pullQuote: 'Educate, activate and kayak-ate'
+  - pullQuote: 'Educate, activate and kayak(ate)'
     type: quote
   - colWidth: '12'
     image: /images/uploads/BOATBOX_-(4)_1820.jpg
