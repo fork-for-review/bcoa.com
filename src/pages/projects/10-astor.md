@@ -13,7 +13,7 @@ previewImage:
 infoObject:
   - description: Newmark Holdings
     title: Client
-  - description: Full renovation of 275 sf Commercial Lobby
+  - description: Commercial Lobby renovation
     title: Scope
   - description: Completed Spring 2015
     title: Status
