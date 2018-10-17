@@ -4,8 +4,8 @@ templateKey: project-page
 title: The Lawrence
 type: commercial
 heroImage:
-  image: /images/uploads/updated-lobby.jpg
-  portraitImage: /images/uploads/ClarksonParkside_PH_1500x2000.jpg
+  image: /images/uploads/clarksonparkside_ph_3800x1900.jpg
+  portraitImage: /images/uploads/clarksonparkside_ph_1500x2000.jpg
 headline: Stitching detail into the mass
 featured:
   featuredDescription: Designing within constraints to bring a human scale to a brick box
