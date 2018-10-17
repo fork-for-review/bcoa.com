@@ -21,7 +21,7 @@ infoObject:
   - description: Michael Moran
     title: Photography
 primaryImage:
-  image: /images/uploads/W-53RD-ST_-(3)_1820.jpg
+  image: /images/uploads/w-53rd-st_-8-.jpg
 projectGallery:
   - caption: Parallel projected windows pixelate the glass curtain wall facade
     colWidth: '6'
@@ -47,12 +47,15 @@ projectGallery:
       The parallel projected window allows the city to subtly enter the unit’s
       space
     type: quote
-  - colWidth: '6'
-    image: /images/uploads/w-53rd-st_-8-_1820_cropped.jpg
+  - colWidth: '4'
+    image: /images/uploads/w53rdst_1_-1160_cropped.jpg
     offsetWidth: '0'
     type: image
-  - colWidth: '6'
-    image: /images/uploads/W-53RD-ST_-(9)_1820.jpg
+  - colWidth: '4'
+    image: /images/uploads/w53rdst_2_-1160_cropped.jpg
+    type: image
+  - colWidth: '4'
+    image: /images/uploads/w53rdst_3_-1160_cropped.jpg
     type: image
   - colWidth: '12'
     image: /images/uploads/w-53rd-st_-25-_1820.jpg
