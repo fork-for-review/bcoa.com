@@ -18,7 +18,7 @@ infoObject:
     title: STATUS
 primaryImage:
   caption: ''
-  image: /images/uploads/city-of-dreams_-6-_1820_cropped.jpg
+  image: /images/uploads/cityofdreams_1820_cropped.jpg
 projectGallery:
   - caption: 'Construction sequence diagram for Play, + and Be'
     colWidth: '6'
