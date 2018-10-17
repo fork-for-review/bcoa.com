@@ -31,7 +31,7 @@ projectGallery:
       The saw-tooth facade orients views up and down the street, emphasizing the
       westward river views
     colWidth: '10'
-    image: /images/uploads/W-53RD-ST_-(18)_1820.jpg
+    image: /images/uploads/w-53rd-st_-14-_3800.jpg
     offsetWidth: '2'
     type: image
   - colWidth: '6'
