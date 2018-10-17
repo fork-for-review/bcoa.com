@@ -17,9 +17,13 @@ infoObject:
   - description: Competition Submittal
     title: STATUS
 primaryImage:
-  caption: 'Construction sequence diagram for Play, + and Be'
-  image: /images/uploads/CITY-OF-DREAMS_-(11)_1820.jpg
+  caption: ''
+  image: /images/uploads/city-of-dreams_-6-_1820_cropped.jpg
 projectGallery:
+  - caption: 'Construction sequence diagram for Play, + and Be'
+    colWidth: '6'
+    image: /images/uploads/CITY-OF-DREAMS_-(11)_1820.jpg
+    type: image
   - colWidth: '10'
     image: /images/uploads/CITY-OF-DREAMS_-(2)_1820.jpg
     type: image
