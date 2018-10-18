@@ -31,7 +31,7 @@ class Article extends Component {
         { article.frontmatter.image.isPortrait ?
           <div className="nestedGrid-6-2">
             <div className="colSpan-1"></div>
-            {article.frontmatter.image.image && 
+            {article.frontmatter.image.image && article.frontmatter.image.image.childImageSharp ?
               <Img
                 sizes={article.frontmatter.image.image.childImageSharp.sizes}
                 alt={article.frontmatter.image.alt}
@@ -39,16 +39,20 @@ class Article extends Component {
                 className=" marginBottom-5
                             bp-2_marginBottom-6"
               />
+              :
+              <img className="colSpan-4 marginBottom-5 bp-2_marginBottom-6" url={article.frontmatter.image.image.src} />
             }
           </div>
         :
-        article.frontmatter.image.image &&
+        article.frontmatter.image.image && article.frontmatter.image.image.childImageSharp ?
           <Img
             sizes={article.frontmatter.image.image.childImageSharp.sizes}
             alt={article.frontmatter.image.alt}
             className=" marginBottom-5
                         bp-2_marginBottom-6"
           />
+          :
+          <img className="colSpan-4 marginBottom-5 bp-2_marginBottom-6" url={article.frontmatter.image.image.src} />
         }
         
         

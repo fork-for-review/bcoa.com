@@ -200,10 +200,10 @@ $messina-book: "MessinaSansBookWeb", "helvetica neue", "sans-serif";
     line-height: 36px;
   }
 
-  // @include bp-2 {
-  //   font-size:   48px;
-  //   line-height: 52px;
-  // }
+  @include bp-2 {
+    font-size:   42px;
+    line-height: 44px;
+  }
 }
 
 @mixin f-copy {
