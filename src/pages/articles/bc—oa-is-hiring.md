@@ -2,7 +2,7 @@
 templateKey: article-page
 title: JOIN US
 image:
-  image: /images/uploads/bc—oa-is-hiring-white_1820x1024.jpg
+  image: /images/uploads/bc—oa-is-hiring-yello_1820x1024.jpg
   isPortrait: false
 date: '2018-07-13'
 ---
