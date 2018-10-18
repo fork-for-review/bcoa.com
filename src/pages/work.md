@@ -9,8 +9,8 @@ projects:
   - project: Crosby Loft II
   - project: 740 Broadway Lobby
   - project: The Lawrence
-  - project: Elevecture® Showroom II
   - project: Riverside Kiosk for Harlem Public
+  - project: Elevecture® Showroom II
   - project: Micro Cabin
   - project: Lift Next Level Floats
   - project: East River Science Park
