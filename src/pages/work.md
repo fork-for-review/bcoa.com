@@ -11,11 +11,11 @@ projects:
   - project: The Lawrence
   - project: Riverside Kiosk for Harlem Public
   - project: Elevecture® Showroom II
+  - project: Stair-Well Housing
   - project: Micro Cabin
   - project: Lift Next Level Floats
   - project: East River Science Park
   - project: Ward Road House
-  - project: Stair-Well Housing
   - project: Astor Lobby
   - project: Crosby Lobby
   - project: Crosby Loft I
