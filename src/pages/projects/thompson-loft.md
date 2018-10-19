@@ -1,7 +1,10 @@
 ---
 isPublished: false
+seo:
+  description: ''
 templateKey: project-page
 title: Thompson Loft
+workDescription: ''
 type: residential
 heroImage:
   alt: Modern loft kitchen rendering
@@ -39,4 +42,4 @@ projectGallery:
     image: /images/uploads/17-THOMPSON_-(11)_1820.jpg
     type: image
 ---
-
+The corner loft is situated at the edge of Soho where it meets Tribeca.  A simple organization of rooms is balanced by a modern aesthetic and minimalist details throughout.  The masking and exposure of industrial elements alternates throughout the apartment in a playful manner
