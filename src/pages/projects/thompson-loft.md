@@ -10,7 +10,7 @@ heroImage:
 previewImage:
   image: /images/uploads/17-thompson_index.jpg
 primaryImage:
-  image: /images/uploads/17-thompson-cropped.jpg
+  image: /images/uploads/17-thompson_update_cropped_1820.jpg
 projectGallery:
   - alt: modern loft apartment rendering
     colWidth: '10'
