@@ -6,4 +6,4 @@ image:
   isPortrait: true
 date: '2018-10-23'
 ---
-Follow up!
+For years we felt we had outgrown our name. Today, we bid farewell to 590BC and launch our new name and identity: Breitner Ciaccia—Office of Architecture. This has been a massive team effort with designers Lost and Found, Virgo and Joshua Rule bringing initial design ideas to life, as well as many dedicated hours by our whole internal team. Moving on!
