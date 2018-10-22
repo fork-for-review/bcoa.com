@@ -137,6 +137,10 @@ collaborators:
     jobTitle: Product Designers
     name: Elevecture
     url: 'http://www.elevecture.com/'
+  - description: Sets a lot of our shoots
+    jobTitle: Prop Stylist
+    name: Astrid Chastka
+    url: astrid.chastka@gmail.com
 ---
 We are Breitner Ciaccia — Office of Architecture. 
 
