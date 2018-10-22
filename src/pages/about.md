@@ -113,30 +113,26 @@ awards:
     title: Matthew W. Del Gaudio award (LC Excellence in Design)
     visibleDate: '1997'
 collaborators:
-  - description: 'Helped us build our site. :)'
-    jobTitle: Web Developer
-    name: Josh Dobson
-    url: 'http://joshuarule.com'
-  - description: Helped us design our site
-    jobTitle: Web Designer
-    name: Virgo
-    url: virgo-ny.com
-  - description: Helped us craft our branding
-    jobTitle: Graphic Designers
-    name: Lost and Found
-    url: wm@wmwmwm.com
-  - description: Shoots a lot of our stuff
-    jobTitle: Photographer
-    name: Amy Barkow
-    url: 'http://www.barkowphoto.com/'
-  - description: Build stuff good
-    jobTitle: Metalworkers
-    name: Caliper Studio
-    url: 'http://www.caliperstudio.com/'
   - description: Elevating Architecture through Smart Surfaces
     jobTitle: Product Designers
     name: Elevecture
     url: 'http://www.elevecture.com/'
+  - description: Helped us craft our branding
+    jobTitle: Graphic Designers
+    name: Lost and Found
+    url: wm@wmwmwm.com
+  - description: Helped us design our site
+    jobTitle: Web Designer
+    name: Virgo
+    url: virgo-ny.com
+  - description: 'Helped us build our site. :)'
+    jobTitle: Web Developer
+    name: Josh Dobson
+    url: 'http://joshuarule.com'
+  - description: Shoots a lot of our stuff
+    jobTitle: Photographer
+    name: Amy Barkow
+    url: 'http://www.barkowphoto.com/'
   - description: Sets a lot of our shoots
     jobTitle: Prop Stylist
     name: Astrid Chastka
