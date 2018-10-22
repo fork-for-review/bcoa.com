@@ -51,15 +51,15 @@ carouselImages:
     subtitle: Brooklyn
     title: Lift
 featuredProjects:
-  - project: Micro Cabin
-  - project: Stair-Well Housing
-  - project: Crosby Loft II
-  - project: Crosby Loft I
+  - project: Riverside Kiosk for Harlem Public
   - project: Elevecture® Showroom II
+  - project: Crosby Loft II
   - project: 740 Broadway Lobby
+  - project: Stair-Well Housing
+  - project: Micro Cabin
+  - project: Crosby Loft I
   - project: The Lawrence
   - project: Lift Next Level Floats
-  - project: Riverside Kiosk for Harlem Public
   - project: Ward Road House
 ---
 
