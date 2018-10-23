@@ -12,9 +12,9 @@ projects:
   - project: Riverside Kiosk for Harlem Public
   - project: Elevecture Showroom II
   - project: Thompson Loft
-  - project: Stair-Well Housing
-  - project: Micro Cabin
   - project: Lift Huntington
+  - project: Micro Cabin
+  - project: Stair-Well Housing
   - project: Ward Road House
   - project: Astor Lobby
   - project: Lift Next Level Floats
