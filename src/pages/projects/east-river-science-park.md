@@ -1,7 +1,7 @@
 ---
 isPublished: true
 templateKey: project-page
-title: East River Science Park
+title: East River Kiosk
 type: commercial
 heroImage:
   image: /images/uploads/eastriversidesciencepark_ph_3800x1900.jpg
