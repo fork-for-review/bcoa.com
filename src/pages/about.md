@@ -120,11 +120,11 @@ collaborators:
   - description: Helped us craft our branding
     jobTitle: Graphic Designers
     name: Lost and Found
-    url: wm@wmwmwm.com
+    url: 'http://wmwmwm.com'
   - description: Helped us design our site
     jobTitle: Web Designer
     name: Virgo
-    url: virgo-ny.com
+    url: 'http://virgo-ny.com'
   - description: 'Helped us build our site. :)'
     jobTitle: Web Developer
     name: Josh Dobson
@@ -136,7 +136,7 @@ collaborators:
   - description: Sets a lot of our shoots
     jobTitle: Prop Stylist
     name: Astrid Chastka
-    url: astrid.chastka@gmail.com
+    url: 'https://www.astridchastka.com/'
 ---
 We are Breitner Ciaccia — Office of Architecture. 
 
