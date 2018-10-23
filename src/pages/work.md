@@ -10,7 +10,7 @@ projects:
   - project: 740 Broadway Lobby
   - project: The Lawrence
   - project: Riverside Kiosk for Harlem Public
-  - project: Elevecture® Showroom II
+  - project: Elevecture Showroom II
   - project: Thompson Loft
   - project: Stair-Well Housing
   - project: Micro Cabin

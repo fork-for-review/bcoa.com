@@ -46,7 +46,7 @@ carouselImages:
     title: Lift
 featuredProjects:
   - project: Riverside Kiosk for Harlem Public
-  - project: Elevecture® Showroom II
+  - project: Elevecture Showroom II
   - project: Crosby Loft II
   - project: 740 Broadway Lobby
   - project: Stair-Well Housing
