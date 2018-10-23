@@ -1,7 +1,5 @@
 import React from "react";
-import Link from "gatsby-link";
 import Img from 'gatsby-image';
-import Image from "../components/Image";
 import SEO from "../components/SEO";
 
 const Member = ({ member }) => (
@@ -24,7 +22,7 @@ const Member = ({ member }) => (
 const Publication = ({ publication }) => (
   <div className="paddingBottom-7">
     <hr className="marginBottom-2" />
-    <a className="f-copy-bold defaultLink" href={ publication.url }>{ publication.title } &#8212; { publication.publisher }</a>
+    <a className="f-copy-bold defaultLink" href={ publication.url } target="_blank">{ publication.title } &#8212; { publication.publisher }</a>
     {publication.visibleDate && <p className="f-copy">{ publication.visibleDate }</p>}
   </div>
 );
@@ -32,7 +30,7 @@ const Publication = ({ publication }) => (
 const Award = ({ award }) => (
   <div className="paddingBottom-7">
     <hr className=" marginBottom-2" />
-    <a className="f-copy-bold defaultLink" href={ award.url }>{ award.title } &#8212; { award.orgName }</a>
+    <a className="f-copy-bold defaultLink" href={ award.url } target="_blank">{ award.title } &#8212; { award.orgName }</a>
     {award.visibleDate && 
       <p>
         { award.visibleDate }
@@ -45,7 +43,7 @@ const Collaborator = ({ collaborator }) => (
   <div>
   <hr className="marginBottom-2" />  
     {collaborator.url ? (
-      <a href={ collaborator.url }>
+      <a href={ collaborator.url } target="_blank">
         <h3 className="f-copy-bold defaultLink">
           { collaborator.name } &#8212; { collaborator.jobTitle }
         </h3>
