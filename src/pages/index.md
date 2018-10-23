@@ -51,6 +51,7 @@ featuredProjects:
   - project: 740 Broadway Lobby
   - project: Stair-Well Housing
   - project: Micro Cabin
+  - project: Thompson Loft
   - project: The Lawrence
   - project: Lift Next Level Floats
   - project: Ward Road House
