@@ -1,7 +1,7 @@
 ---
 isPublished: true
 templateKey: project-page
-title: Elevecture® Showroom II
+title: Elevecture Showroom II
 type: commercial
 heroImage:
   image: /images/uploads/740broadwayshowroom_ph_3800x1900.jpg
@@ -34,11 +34,9 @@ projectGallery:
     colWidth: '6'
     image: /images/uploads/740-broadway_showroom_-6-cropped.jpg
     type: image
-  - caption: >-
-      The second of three Elevecture® glass folds defines a shared conference
-      table and integrates digital displays seamlessly withing the glass surface
+  - caption: Four folding planes stitched together by linear Elevecture lights
     colWidth: '10'
-    image: /images/uploads/1-bs_cropped.jpg
+    image: /images/uploads/2-bs.jpg
     offsetWidth: '2'
     type: image
   - colWidth: '6'
@@ -53,7 +51,8 @@ projectGallery:
     type: quote
   - caption: ''
     colWidth: '12'
-    image: /images/uploads/2-bs.jpg
+    image: /images/uploads/1-bs_cropped.jpg
+    offsetWidth: '0'
     type: image
 ---
-This showroom, the re-conceptualized, relocated version of the first Elevecture® showroom, represents a collaboration by three innovative companies who's common missions involves revolutionizing the architectural surfaces world through the use of advanced glass technologies.   The Innovation Center functions as a forum that networks people and their innovations together with a focus on interactive collaboration. Digital displays blend seamlessly with glass panels to help showcase changing exhibits while maintaining an environment conducive to co-working for the development, design and construction industries.
+This showroom, the re-conceptualized, relocated version of the first Elevecture showroom, represents a collaboration by three innovative companies who's common missions involves revolutionizing the architectural surfaces world through the use of advanced glass technologies - Elevecture, Corning® and View Glass.   The Innovation Center functions as a forum that networks people and their innovations together with a focus on interactive collaboration. Digital displays blend seamlessly with glass panels to help showcase changing exhibits while maintaining an environment conducive to co-working for the development, design and construction industries.
