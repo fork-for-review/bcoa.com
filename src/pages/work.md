@@ -14,7 +14,7 @@ projects:
   - project: Stair-Well Housing
   - project: Micro Cabin
   - project: Lift Next Level Floats
-  - project: East River Science Park
+  - project: East River Kiosk
   - project: Ward Road House
   - project: Astor Lobby
   - project: Crosby Lobby
