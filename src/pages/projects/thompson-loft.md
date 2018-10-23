@@ -1,5 +1,5 @@
 ---
-isPublished: false
+isPublished: true
 seo:
   description: ''
 templateKey: project-page
@@ -10,16 +10,27 @@ heroImage:
   alt: Modern loft kitchen rendering
   image: /images/uploads/17thompson_ph_3800x1900.jpg
   portraitImage: /images/uploads/17THOMPSON_PH_1500x2000.jpg
+headline: 'blur the boundaries '
 previewImage:
   image: /images/uploads/17-thompson_index.jpg
+infoObject:
+  - description: 1350sf Loft Renovation
+    title: Scope
+  - description: On the boards
+    title: Status
 primaryImage:
+  caption: 'The ceiling plane floats, projecting past the kitchen'
   image: /images/uploads/17-thompson-cropped.jpg
 projectGallery:
   - alt: modern loft apartment rendering
+    caption: >-
+      Exposed brick selectively painted or exposed to define zones within the
+      large common area
     colWidth: '10'
     image: /images/uploads/17-thompson-2-cropped.jpg
     type: image
-  - colWidth: '8'
+  - caption: A walnut wood gem hovers above the rustic oak floor
+    colWidth: '8'
     image: /images/uploads/17-THOMPSON_-(2)_1820.jpg
     offsetWidth: '4'
     type: image
@@ -42,4 +53,4 @@ projectGallery:
     image: /images/uploads/17-THOMPSON_-(11)_1820.jpg
     type: image
 ---
-The corner loft is situated at the edge of Soho where it meets Tribeca.  A simple organization of rooms is balanced by a modern aesthetic and minimalist details throughout.  The masking and exposure of industrial elements alternate throughout the apartment in a playful manner
+This corner loft situated at the outer Soho limits is small in footprint but has the advantage of corner, wrap-around windows to expand the city views and flood the unit with natural light. Exposed brick throughout the unit and original tin ceiling keep the loft attitude of the building. A refined walnut island with an infinity-edge concrete countertop introduces a modern showpiece into the raw space. New surfaces trace the edges of the private zone, reading as overlapping planes within the industrial box.
