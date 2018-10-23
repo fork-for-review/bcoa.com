@@ -15,7 +15,6 @@ projects:
   - project: Stair-Well Housing
   - project: Micro Cabin
   - project: Lift Huntington
-  - project: East River Kiosk
   - project: Ward Road House
   - project: Astor Lobby
   - project: Lift Next Level Floats
