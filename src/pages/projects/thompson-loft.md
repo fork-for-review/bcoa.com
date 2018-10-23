@@ -15,7 +15,7 @@ featured:
   featuredImage:
     alt: 'Modern Loft Renovation '
     image: /images/uploads/17-thompson_index.jpg
-  isFeatured: true
+  isFeatured: false
 previewImage:
   image: /images/uploads/17-thompson_index.jpg
 infoObject:
