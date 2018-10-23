@@ -18,17 +18,17 @@ infoObject:
     title: STATUS
 primaryImage:
   caption: Rooms provide an aesthetically serene experience
-  image: /images/uploads/lift_huntington_-7-cropped_1820.jpg
+  image: /images/uploads/lift_huntington_1820_cropped.jpg
 projectGallery:
   - caption: A central decompression lounge defined by the iconic blue glow
     colWidth: '10'
     image: /images/uploads/lift_huntington_-10.jpg
     type: image
   - colWidth: '6'
-    image: /images/uploads/LIFT_HUNTINGTON_-(13)_1820.jpg
+    image: ''
     type: image
   - colWidth: '6'
-    image: /images/uploads/LIFT_HUNTINGTON_-(16)_1820.jpg
+    image: ''
     type: image
   - colWidth: '12'
     image: /images/uploads/lifthuntington_newplan_3800.jpg
@@ -42,4 +42,4 @@ projectGallery:
     image: /images/uploads/lift_huntington_-2-cropped.jpg
     type: image
 ---
-LIFT Next Level Floats' has established a second location in Huntington. LIFT Next Level Floats is a boutique sensory deprivation spa, the first dedicated spa of its kind in NYC. The program consists of private soundproof and lightproof float rooms, each which contain a heavily salinated warm water tank for floating. The experience results in a deep state of relaxation and a heightened sense of perception. Upon exiting the private rooms, the users enter the decompression lounge which allows for a gentle transition back into daily stimuli. Unlike the Brooklyn location, this new retail space was a white box. BC—OA introduces the Brooklyn material palette of fir plywood, reclaimed steel and industrial grade wool felt to bring the brand to a new audience. These rich and natural materials produce a diverse and tactile palette which invites the touch.
+LIFT Next Level Floats' has established a second location in Huntington. LIFT Next Level Floats is a boutique sensory deprivation spa, the first dedicated spa of its kind in NYC. The program consists of private soundproof and lightproof float rooms, each which contain a heavily salinated warm water tank for floating. The experience results in a deep state of relaxation and a heightened sense of perception. Upon exiting the private rooms, the users enter the decompression lounge which allows for a gentle transition back into daily stimuli. BC—OA introduces a material palette of fir plywood, reclaimed steel and industrial grade wool felt to respond to the existing brick perimeter walls and concrete floors. These rich and natural materials produce a diverse and tactile palette which invites the touch.
