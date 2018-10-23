@@ -40,7 +40,7 @@ projectGallery:
   - colWidth: '4'
     image: /images/uploads/17-thompson-master-bathroom_-1160_-cropped.jpg
     type: image
-  - pullQuote: the balanced loft
+  - pullQuote: floating and folding planes wrap the lofty loft
     type: quote
   - colWidth: '12'
     image: /images/uploads/thompson_newplan_3800.jpg
