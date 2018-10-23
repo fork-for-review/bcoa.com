@@ -11,6 +11,8 @@ heroImage:
   image: /images/uploads/17thompson_ph_3800x1900.jpg
   portraitImage: /images/uploads/17THOMPSON_PH_1500x2000.jpg
 headline: 'blur the boundaries '
+featured:
+  isFeatured: true
 previewImage:
   image: /images/uploads/17-thompson_index.jpg
 infoObject:
