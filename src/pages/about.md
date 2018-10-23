@@ -125,7 +125,7 @@ collaborators:
     jobTitle: Web Designer
     name: Virgo
     url: 'http://virgo-ny.com'
-  - description: 'Helped us build our site. :)'
+  - description: Helped us build our site
     jobTitle: Web Developer
     name: Josh Dobson
     url: 'http://joshuarule.com'
