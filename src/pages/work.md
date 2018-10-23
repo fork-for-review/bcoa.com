@@ -11,15 +11,17 @@ projects:
   - project: The Lawrence
   - project: Riverside Kiosk for Harlem Public
   - project: Elevecture® Showroom II
+  - project: Thompson Loft
   - project: Stair-Well Housing
   - project: Micro Cabin
-  - project: Lift Next Level Floats
+  - project: Lift Huntington
   - project: East River Kiosk
   - project: Ward Road House
   - project: Astor Lobby
+  - project: Lift Next Level Floats
   - project: Crosby Lobby
-  - project: Crosby Loft I
   - project: Ankara Hotel
+  - project: Crosby Loft I
   - project: City of Dreams
   - project: Brooklyn Heights Townhouse
   - project: UWS Co-op
@@ -30,7 +32,5 @@ projects:
   - project: Barman
   - project: West 53rd Street
   - project: Zhuhai Exhibition Center
-  - project: Thompson Loft
-  - project: Lift Huntington
 ---
 
