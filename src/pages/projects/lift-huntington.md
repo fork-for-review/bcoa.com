@@ -1,11 +1,12 @@
 ---
-isPublished: false
+isPublished: true
 templateKey: project-page
 title: Lift Huntington
 type: commercial
 heroImage:
   image: /images/uploads/lifthuntington_ph_3800x1900.jpg
   portraitImage: /images/uploads/LIFTHUNTINGTON_PH_1500x2000.jpg
+headline: adapt the brand
 previewImage:
   image: /images/uploads/LIFT_HUNTINGTON_index_2.jpg
 infoObject:
