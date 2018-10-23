@@ -38,6 +38,14 @@ studioMembers:
     name: 'Luigi Ciaccia, AIA, LEED BD+C'
     principal: true
     principalInfo: ''
+  - jobTitle: Designer
+    name: Elizabeth Austin
+  - description: Job description here
+    image:
+      alt: alt
+      image: /images/uploads/placeholder.jpg
+    jobTitle: Designer
+    name: Stefano Grisoglio
   - description: >-
       Scott is a great worker with a big heart. He went to school at blah blah
       university where he studied blah blah. He frequently travels to world to
@@ -47,14 +55,6 @@ studioMembers:
       image: /images/uploads/placeholder.jpg
     jobTitle: Designer
     name: Scott Mikawa
-  - description: Job description here
-    image:
-      alt: alt
-      image: /images/uploads/placeholder.jpg
-    jobTitle: Designer
-    name: Stefano Grisoglio
-  - jobTitle: Designer
-    name: Elizabeth Austin
 publications:
   - date: 'March 10, 2017'
     publisher: The NYTimes
