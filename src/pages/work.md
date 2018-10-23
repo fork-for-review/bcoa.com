@@ -30,5 +30,7 @@ projects:
   - project: Barman
   - project: West 53rd Street
   - project: Zhuhai Exhibition Center
+  - project: Thompson Loft
+  - project: Lift Huntington
 ---
 
