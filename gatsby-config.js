@@ -16,6 +16,15 @@ module.exports = {
         precision: 8
       }
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-40614083-1",
+        head: true,
+        sampleRate: 100,
+        siteSpeedSampleRate: 10,
+      },
+    },
     'gatsby-plugin-netlify-cache',
     "gatsby-link",
     `gatsby-plugin-styled-components`,
