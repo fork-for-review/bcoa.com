@@ -126,8 +126,8 @@ collaborators:
     name: Virgo
     url: 'http://virgo-ny.com'
   - description: Helped us build our site
-    jobTitle: Web Developer
-    name: Josh Dobson
+    jobTitle: Front End Developer
+    name: Joshua Rule Dobson
     url: 'http://joshuarule.com'
   - description: Shoots a lot of our stuff
     jobTitle: Photographer
