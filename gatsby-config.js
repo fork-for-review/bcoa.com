@@ -22,15 +22,6 @@ module.exports = {
     "gatsby-transformer-json",
     'gatsby-plugin-react-next',
     {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-40614083-1",
-        head: true,
-        sampleRate: 100,
-        siteSpeedSampleRate: 10,
-      },
-    },
-    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/images/uploads`,
