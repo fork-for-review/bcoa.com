@@ -2,6 +2,15 @@ const autoprefixer = require('autoprefixer');
 const customProperties = require('postcss-custom-properties');
 module.exports = {
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-40614083-1",
+        head: true,
+        sampleRate: 100,
+        siteSpeedSampleRate: 10,
+      },
+    },
     "gatsby-plugin-react-helmet",
     {
       resolve: `gatsby-plugin-postcss-sass`,
@@ -15,15 +24,6 @@ module.exports = {
         ],
         precision: 8
       }
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-40614083-1",
-        head: true,
-        sampleRate: 100,
-        siteSpeedSampleRate: 10,
-      },
     },
     'gatsby-plugin-netlify-cache',
     "gatsby-link",
