@@ -1,7 +1,11 @@
 const autoprefixer = require('autoprefixer');
 const customProperties = require('postcss-custom-properties');
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://www.example.com`,
+  },
   plugins: [
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
