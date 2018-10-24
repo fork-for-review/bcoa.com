@@ -122,6 +122,16 @@ export default class TemplateWrapper extends Component {
         <Helmet 
           title="BC&#8212;OA"
           bodyAttributes={{ class: this.state.menuOpen && 'scrollingIsDisabled' }}
+          <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40614083-1"></script>
+          <script>
+            {`
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+
+              gtag('config', 'UA-40614083-1');
+            `}
+          </script>
         />
         <Headroom>
           <HeaderNav  visible=        { this.state.menuOpen }
