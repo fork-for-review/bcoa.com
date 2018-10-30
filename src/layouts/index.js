@@ -7,6 +7,7 @@ import FixedLogo from "../components/FixedLogo";
 import classnames from "classnames";
 import Headroom from "react-headroom";
 import { icons } from "../components/Icons";
+import 'core-js/fn/array/find';
 
 if (typeof window !== `undefined`) {
   require("intersection-observer");
