@@ -58,11 +58,18 @@ export default class TemplateWrapper extends Component {
     }
   }
 
+  isIE() {
+    return window.navigator.userAgent.match(/(MSIE|Trident)/)
+  }
+
   componentDidMount() {
     window.addEventListener("resize", this.updateDimensions);
     this.updateDimensions();
     this.initHeroObserver();
     cssVars();
+    if(this.isIE()) {
+      this.setState({showIEAlert: true})
+    }
   }
   
   componentDidUpdate(prevProps) {
@@ -202,6 +209,33 @@ export default class TemplateWrapper extends Component {
             </div>
           </div>
         </footer>
+        {this.state.showIEAlert &&
+          <div
+            onClick={() => this.setState({showIEAlert: false})}
+            style={{
+              position: 'fixed', 
+              bottom: '12px', 
+              left: '50%',
+              transform: 'translateX(-50%)',
+              maxWidth: '28rem',
+              borderRadius: '3px', 
+              backgroundColor: '#fff',
+              textAlign: 'center',
+              padding: "14px"
+            }}
+          >
+            Webpage best viewed in latest versions of Edge, Chrome, & Firefox
+            <button 
+              style={{
+                fontSize: '30px',
+                position: 'absolute', 
+                top: '-6px', 
+                right: 0,
+                transform: 'rotate(45deg)'
+              }}
+            >+</button>
+          </div>
+        }
       </div>
     );
   }
