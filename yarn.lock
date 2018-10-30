@@ -3034,6 +3034,11 @@ css-to-react-native@^2.0.3:
     fbjs "^0.8.5"
     postcss-value-parser "^3.3.0"
 
+css-vars-ponyfill@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/css-vars-ponyfill/-/css-vars-ponyfill-1.12.0.tgz#6de51ecdff592e0a1ec6aef36bd7b0bfad6b7a65"
+  integrity sha512-vJZgqqL4DlUG/uCVNPBBmcTG4j0ARb26r7iu6MnfEU0KXs6W2khJxsKrD78L/IwtfevVPpGpDrsW1Au03zvRmg==
+
 css-what@1.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/css-what/-/css-what-1.0.0.tgz#d7cc2df45180666f99d2b14462639469e00f736c"

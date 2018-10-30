@@ -8,6 +8,7 @@ import classnames from "classnames";
 import Headroom from "react-headroom";
 import { icons } from "../components/Icons";
 import 'core-js/fn/array/find';
+import cssVars from 'css-vars-ponyfill';
 
 if (typeof window !== `undefined`) {
   require("intersection-observer");
@@ -61,6 +62,7 @@ export default class TemplateWrapper extends Component {
     window.addEventListener("resize", this.updateDimensions);
     this.updateDimensions();
     this.initHeroObserver();
+    cssVars();
   }
   
   componentDidUpdate(prevProps) {
