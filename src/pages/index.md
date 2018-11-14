@@ -6,6 +6,12 @@ seo:
 templateKey: featured-page
 title: Featured Projects
 carouselImages:
+  - alt: Carousel Image 2
+    image: /images/uploads/740broadwayshowroom_c1.jpg
+    portraitImage: /images/uploads/740BroadwayShowroom_C_1500x2000.jpg
+    project: 740 Broadway Lobby
+    subtitle: Showroom
+    title: 740 Broadway
   - alt: Carousel Image 7
     image: /images/uploads/Riverside_C1.jpg
     portraitImage: /images/uploads/Riverside_C_1500x2000.jpg
@@ -22,12 +28,6 @@ carouselImages:
     portraitImage: /images/uploads/Wardroad_C_1500x2000.jpg
     project: Ward Road House
     title: Ward Road
-  - alt: Carousel Image 2
-    image: /images/uploads/740broadwayshowroom_c1.jpg
-    portraitImage: /images/uploads/740BroadwayShowroom_C_1500x2000.jpg
-    project: 740 Broadway Lobby
-    subtitle: Showroom
-    title: 740 Broadway
   - alt: Carousel image 6
     image: /images/uploads/microcabin_c1.jpg
     portraitImage: /images/uploads/MICROCABIN_C_1500x2000.jpg
