@@ -28,7 +28,7 @@ infoObject:
     title: Status
 primaryImage:
   caption: White glass columns fold to become suspended LED panels overhead
-  image: /images/uploads/1.jpg
+  image: /images/uploads/740broadwaylobby_editbb_1820.jpg
 projectGallery:
   - caption: Section Perspective
     colWidth: '8'
@@ -38,7 +38,7 @@ projectGallery:
       Digital displays with animated nature scenes extend across column widths,
       alternating a full nature scene with the pure white columns
     colWidth: '12'
-    image: /images/uploads/2.jpg
+    image: /images/uploads/740broadwaylobby_editbb_3800.jpg
     type: image
   - colWidth: '10'
     image: /images/uploads/740-broadway_lobby_-8-_3140.jpg
@@ -50,7 +50,7 @@ projectGallery:
   - pullQuote: the physical limits of this lobby are no longer limited
     type: quote
   - colWidth: '10'
-    image: /images/uploads/3.jpg
+    image: /images/uploads/740broadwaylobby_editbb_3140.jpg
     type: image
 ---
 A progressive, future-focused client asked BC—OA to design a complete modernization to this century old lobby utilizing the Elevecture glass panel and display material palette utilized at the Elevecture Showroom. The contrast between the historic facade and contemporary, technologically sophisticated interior reflects the adaptability of historic architecture in New York’s fast paced developing market. The challenge of the design comes from implementing the modular panel system in a wholly different way, which we addressed by incorporating vertical strips of digital displays alternating with columns of white static panels and lighting. The result is a space defined largely by these folding layers wrapping the space, creating an opportunity for the occupant to physically inhabit the graphic content on the walls as they experience a moment of pause in their daily commutes.
