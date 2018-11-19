@@ -18,7 +18,7 @@ featured:
     isPortrait: true
   isFeatured: true
 previewImage:
-  image: /images/uploads/740-broadway_index.jpg
+  image: /images/uploads/740broadwaylobby_editbb_index830x830.jpg
 infoObject:
   - description: Newmark Holdings
     title: Client
