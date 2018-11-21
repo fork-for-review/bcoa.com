@@ -140,6 +140,6 @@ collaborators:
 ---
 We are Breitner Ciaccia — Office of Architecture. 
 
-We are an architectural design firm with our feet firmly on the ground, merging creativity with pragmatism. Love of craft, conceptual dedication and technical prowess inform everything we do. We use creative vision, precise execution, technology, and collaboration to get it done. From loft renovations, to commercial development, we are the place that knows \*growing\* doesn’t mean growing up or growing old, but rather growing forward.
+We are an architectural design firm with our feet firmly on the ground, merging creativity with pragmatism. Love of craft, conceptual dedication and technical prowess inform everything we do. We use creative vision, precise execution, technology, and collaboration to get it done. From elevator interiors to loft conversions to commercial development, we are the place that tackles our work with a unique creative energy, weaving our joyful approach to design and execution into every part of the process.
 
 We are BC—OA.
