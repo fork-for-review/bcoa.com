@@ -17,7 +17,6 @@ projects:
   - project: Stair-Well Housing
   - project: Ward Road House
   - project: Astor Lobby
-  - project: Lift Next Level Floats
   - project: Crosby Lobby
   - project: Ankara Hotel
   - project: Crosby Loft I
