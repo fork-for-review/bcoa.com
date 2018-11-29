@@ -52,7 +52,6 @@ featuredProjects:
   - project: Stair-Well Housing
   - project: Micro Cabin
   - project: The Lawrence
-  - project: Lift Next Level Floats
   - project: Ward Road House
 ---
 
