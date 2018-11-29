@@ -34,6 +34,7 @@ export default class HeroSlider extends Component {
       speed: 500,
       slidesToShow: 1,
       slidesToScroll: 1,
+      initialSlide: Math.floor(Math.random() * Math.floor(this.props.slides.length)),
       nextArrow: <NextArrow />,
       prevArrow: <PrevArrow />
     };
